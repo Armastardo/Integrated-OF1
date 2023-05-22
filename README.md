@@ -15,8 +15,7 @@ Design files are available in this repository. Production files for JLCPCB in th
 
 ## Features
 - USB-C to GCC and USB-C to N64 cable compatible with integrated port.
-- Can use non detachable OEM/Third party gamecube cables.
-- Uses [HayBox](https://github.com/JonnyHaystack/HayBox) and [Pico Rectangle](https://github.com/JulienBernard3383279/pico-rectangle) default pinout. Labeled accordingly with some extra pins broken out if you want to expand functionality (WASD layout, add another LED, etc).
+- Uses [HayBox](https://github.com/JonnyHaystack/HayBox) and [Pico Rectangle](https://github.com/JulienBernard3383279/pico-rectangle) default pinout.
 
 ## Usage
 1. Order via JLCPCB using the production files in the releases page.
