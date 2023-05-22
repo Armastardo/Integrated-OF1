@@ -28,5 +28,9 @@ Design files are available in this repository. Production files for JLCPCB in th
 ## To-do:
 - Prototype. Currently untested.
 
+## Acknowledgements:
+- Greg Turbo: For creating the Frame1 and the Open Frame 1.
+- Crane's Lab discord server: For the community that inspired me to create things like this.
+
 ### Made using the Open Rectangle Template
-OpenRectangleTemplate project] - https://github.com/Armastardo/OpenRectangleTemplate
+OpenRectangleTemplate project - https://github.com/Armastardo/OpenRectangleTemplate
