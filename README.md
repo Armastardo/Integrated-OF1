@@ -10,7 +10,6 @@ Design files are available in this repository. Production files for JLCPCB in th
 ## Table of contents
 * [Features](#features)
 * [Usage](#usage)
-* [To-do](#to-do)
 * [Acknowledgements](#acknowledgements)
 
 ## Features
@@ -23,9 +22,6 @@ Design files are available in this repository. Production files for JLCPCB in th
 3. Drop your prefered firmware in uf2 format and once it disconnects it should be good to go.
 	- If you connect while pressing the BOOT button (or shorting the pads in the back), it'll show again as a mass storage device so you can update the firmware or replace it.
 	- You can also press START on connect if using HayBox or CRIGHT if using pico-rectangle.
-
-## To-do:
-- Prototype. Currently untested.
 
 ## Acknowledgements:
 - Greg Turbo: For creating the Frame1 and the Open Frame 1.
