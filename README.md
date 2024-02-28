@@ -5,7 +5,7 @@ RaspberryPi Pico-powered board compatible with Rev 1 Heavy and Rev 1/2 Light cas
   <img src="https://github.com/Armastardo/Integrated-OF1/blob/main/Pictures/Render.png?raw=true" />
 </p>
 
-Design files are available in this repository. Production files for JLCPCB in the releases page. Currently untested.
+Design files are available in this repository. Production files for JLCPCB in the releases page. Tested working and fitting previously mentioned Frame 1 cases.
 
 ## Table of contents
 * [Features](#features)
