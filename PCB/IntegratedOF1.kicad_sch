@@ -5082,7 +5082,7 @@
     (property "Datasheet" "~" (at 109.347 129.794 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C5156480" (at 109.347 134.874 0)
+    (property "LCSC" "C318884" (at 109.347 134.874 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid d89fb336-227d-4be5-93a1-40bdabae582f))
